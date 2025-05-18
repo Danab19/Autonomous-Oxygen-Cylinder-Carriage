@@ -32,7 +32,8 @@ If you use this work in your research, please cite it as:
   * Husain Althawadi (A00192)
 
 * **Supervisor**: Dr. Shazali Osman
-  *American University of Bahrain*
+
+  *American University of Bahrain (AUBH)*
 
 ---
 
